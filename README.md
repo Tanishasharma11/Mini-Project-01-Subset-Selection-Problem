@@ -1,4 +1,4 @@
-# Mini-Project-01-Subset-Selection-Problem
+# Mini-Project-01
 
 # Subset Selection Problem
 
