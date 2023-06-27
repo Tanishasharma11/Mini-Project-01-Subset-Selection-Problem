@@ -1,6 +1,6 @@
 # Mini-Project-01
 
-# Subset Selection Problem
+# `Subset Selection Problem`
 
 ---
 ### **1. Problem Statement:**
